@@ -54,7 +54,7 @@ Web page development from design to test and up to production deployment.
         </div>
     </div>
 </section>
-6.Innovative, creative and a proven team player, I possess a Tech Degree in Front End Development and have 6 years building developing and managing websites, applications and programs for various companies. I seek to secure the position of Senior Front End Developer with Orbits International and hope to share my skills, expertise and experience with your team and valuable clients.
+6. Innovative, creative and a proven team player, I possess a Tech Degree in Front End Development and have 6 years building developing and managing websites, applications and programs for various companies. I seek to secure the position of Senior Front End Developer with Orbits International and hope to share my skills, expertise and experience with your team and valuable clients.
 
 7. IT RUN courses, Udemy bootcamp
 
