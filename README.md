@@ -4,12 +4,12 @@
 
 3 .Front-end web development is an exciting career because it's always evolving and constantly changing. This means you'll always have the opportunity to interact with new tools and learn new skills, keeping you engaged in your career. It's a field that provides many opportunities for hands-on learning.
 
-4. Assisted in the monitoring and reporting on website traffic and performance.
-Created HTML email templates and newsletters for e-mail marketing campaigns.
-Developed web-site mock-ups for clients to ensure quality control and client satisfaction before project development phase.
-Executed and monitored standards for user interfaces, page design and graphics development.
-Designed complex interfaces to support third party systems.
-Web page development from design to test and up to production deployment.
+4. *Assisted in the monitoring and reporting on website traffic and performance.
+*Created HTML email templates and newsletters for e-mail marketing campaigns.
+*Developed web-site mock-ups for clients to ensure quality control and client satisfaction before project development phase.
+*Executed and monitored standards for user interfaces, page design and graphics development.
+*Designed complex interfaces to support third party systems.
+*Web page development from design to test and up to production deployment.
 
 5. Code example
 <section id="team">
