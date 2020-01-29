@@ -1,12 +1,12 @@
  # Ulan Iskanderov
 
-2. # Contact info
+# Contact info
 iskanderovulan@gmail.com @iskanderovulan
 
-3. # Summarry
+# Summarry
 Front-end web development is an exciting career because it's always evolving and constantly changing. This means you'll always have the opportunity to interact with new tools and learn new skills, keeping you engaged in your career. It's a field that provides many opportunities for hands-on learning.
 
-4. # Skills
+# Skills
 * Assisted in the monitoring and reporting on website traffic and performance.
 * Created HTML email templates and newsletters for e-mail marketing campaigns.
 * Developed web-site mock-ups for clients to ensure quality control and client satisfaction before project development phase.
@@ -14,7 +14,7 @@ Front-end web development is an exciting career because it's always evolving and
 * Designed complex interfaces to support third party systems.
 * Web page development from design to test and up to production deployment.
 
-5. # Code example
+# Code example
 <section id="team">
     <div class="container">
         <div class="team__title general-title">
@@ -57,12 +57,12 @@ Front-end web development is an exciting career because it's always evolving and
         </div>
     </div>
 </section>
-6. # experience
+# experience
 Innovative, creative and a proven team player, I possess a Tech Degree in Front End Development and have 6 years building developing and managing websites, applications and programs for various companies. I seek to secure the position of Senior Front End Developer with Orbits International and hope to share my skills, expertise and experience with your team and valuable clients.
 
-7. # Education
+# Education
 IT RUN courses, Udemy bootcamp
 
-8. # English
+# English
 Advanced
 
