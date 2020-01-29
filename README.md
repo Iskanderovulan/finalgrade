@@ -1,10 +1,11 @@
  # Ulan Iskanderov
 
 # Contact info
-iskanderovulan@gmail.com @iskanderovulan
+* iskanderovulan@gmail.com
+* telegram:@iskanderovulan
 
 # Summarry
-* Front-end web development is an exciting career because it's always evolving and constantly changing. This means you'll always have the opportunity to interact with new tools and learn new skills, keeping you engaged in your career. It's a field that provides many opportunities for hands-on learning. *
+*This text will be italic* Front-end web development is an exciting career because it's always evolving and constantly changing. This means you'll always have the opportunity to interact with new tools and learn new skills, keeping you engaged in your career. It's a field that provides many opportunities for hands-on learning.
 
 # Skills
 * Assisted in the monitoring and reporting on website traffic and performance.
