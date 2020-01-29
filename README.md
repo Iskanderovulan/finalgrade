@@ -58,6 +58,7 @@
         </div>
     </div>
 </section>
+
 # experience
 Innovative, creative and a proven team player, I possess a Tech Degree in Front End Development and have 6 years building developing and managing websites, applications and programs for various companies. I seek to secure the position of Senior Front End Developer with Orbits International and hope to share my skills, expertise and experience with your team and valuable clients.
 
