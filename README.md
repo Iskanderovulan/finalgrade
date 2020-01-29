@@ -1,17 +1,18 @@
-1.Ulan Iskanderov
+1. Ulan Iskanderov
 
-2.iskanderovulan@gmail.com @iskanderovulan
+2. iskanderovulan@gmail.com @iskanderovulan
 
-3.Front-end web development is an exciting career because it's always evolving and constantly changing. This means you'll always have the opportunity to interact with new tools and learn new skills, keeping you engaged in your career. It's a field that provides many opportunities for hands-on learning.
+3 .Front-end web development is an exciting career because it's always evolving and constantly changing. This means you'll always have the opportunity to interact with new tools and learn new skills, keeping you engaged in your career. It's a field that provides many opportunities for hands-on learning.
 
-4.Assisted in the monitoring and reporting on website traffic and performance.
+4. Assisted in the monitoring and reporting on website traffic and performance.
 Created HTML email templates and newsletters for e-mail marketing campaigns.
 Developed web-site mock-ups for clients to ensure quality control and client satisfaction before project development phase.
 Executed and monitored standards for user interfaces, page design and graphics development.
 Designed complex interfaces to support third party systems.
 Web page development from design to test and up to production deployment.
 
-5.<section id="team">
+5. Code example
+<section id="team">
     <div class="container">
         <div class="team__title general-title">
         <p class="team-title-text ">Meet <span>our team</span></p>
@@ -57,5 +58,5 @@ Web page development from design to test and up to production deployment.
 
 7. IT RUN courses, Udemy bootcamp
 
-8.Advanced
+8. Advanced
 
