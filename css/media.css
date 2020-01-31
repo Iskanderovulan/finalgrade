@@ -1,0 +1,52 @@
+
+@media (max-width: 991.98px) {
+    .display-apple{
+        width: 100%;
+    }
+
+    .clients-list-item img{
+        margin-bottom:100px;
+    }
+    .about-button{
+        margin:0 0 50px;
+    }
+
+}
+@media (max-width: 767.98px) {
+    .clients-list{
+        display:flex;
+        flex-direction: column;
+    }
+    .about-button{
+        margin:0 0 50px;
+    }
+    .button-wrap{
+     display: flex;
+     justify-content: center;
+ }
+    }
+@media (max-width: 575.98px) {
+    .box{
+        text-align: center;
+    }
+    .about-button{
+        margin:0 auto 50px;
+    }
+  .hero-arrow{
+      padding-bottom: 100px;
+  }
+  .portfolio-title,.portfolio-items{
+      text-align: center;
+  }
+  .menu-item:after{
+      display:none;
+  }
+
+    }
+
+
+
+
+
+
+

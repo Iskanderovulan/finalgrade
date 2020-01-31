@@ -8,6 +8,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     font-size: 14px;
+    min-height: 100%;
 
 }
 
@@ -133,7 +134,7 @@ header {
     width: 110%;
     position: absolute;
     left: 0;
-    bottom: -20px;
+    bottom: -10px;
     height: 3px;
     border-style: solid;
 }
@@ -156,6 +157,7 @@ header {
 
 .display-apple {
     background-size: cover;
+
 }
 
 .about-button {
@@ -169,6 +171,7 @@ header {
     text-transform: uppercase;
     margin-top: 20px;
     transition: .6s;
+    width:240px;
 }
 
 .suitcase {
@@ -288,15 +291,16 @@ header {
     margin: 0 0 90px;
 }
 
-#clients {
-    background: #0b0b0b;
-    padding: 90px 0 190px;
+.clients {
+     background: #0b0b0b;
+     padding: 90px 0 190px;
 
-}
+ }
 
 .clients-list {
     text-align: center;
     margin-top: 130px;
+    padding-inline-start: 0;
 }
 
 .clients-list-item {
@@ -333,10 +337,7 @@ header {
     font-size: 18px;
 }
 
-.portfolio-list {
-    display: flex;
-    justify-content: flex-end;
-}
+
 
 .portfolio-items {
     border-right: 1px solid;
@@ -345,6 +346,8 @@ header {
     text-decoration: none;
     color: #787878;
     line-height: 1;
+    cursor:pointer;
+
 
 }
 
@@ -354,6 +357,7 @@ header {
     text-decoration: none;
     color: #787878;
     line-height: 1;
+    cursor:pointer;
 }
 
 .items-for-border {
@@ -539,4 +543,28 @@ footer {
     text-align: center;
     align-items: center;
     margin-left: 10px;
+}
+.tabs{
+  width: 100%;
+    text-align: center;
+
+}
+.portfolio-title{
+ display:block;
+}
+.tabs input{
+    display:none;
+}
+.tab{
+    display:none;
+}
+#tab1:checked ~ .tab1,
+#tab2:checked ~ .tab2,
+#tab3:checked ~ .tab3,
+#tab4:checked ~ .tab4{
+    display: block;
+}
+.tabs input:checked + label{
+    color: #000;
+    font-weight: 700;
 }
