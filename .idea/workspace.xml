@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12cb5e92-90fb-4a0f-8327-def3116d6d49" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/finalgrade" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -23,7 +22,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HomeWorkBootstrap Iskanderov Ulan" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -65,7 +64,10 @@
       <workItem from="1580305134782" duration="372000" />
       <workItem from="1580368558127" duration="1117000" />
       <workItem from="1580369696182" duration="3554000" />
-      <workItem from="1580374954808" duration="10814000" />
+      <workItem from="1580374954808" duration="12373000" />
+      <workItem from="1580472549416" duration="6251000" />
+      <workItem from="1580490347119" duration="603000" />
+      <workItem from="1580710684606" duration="4419000" />
     </task>
     <servers />
   </component>

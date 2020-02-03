@@ -10,8 +10,51 @@
     .about-button{
         margin:0 0 50px;
     }
-
+    .menu-item:after{
+        /*z-index: 0;*/
+    }
+    /*FORBUREGER*/ /*FORBUREGER*/
+    .mobile-btn {
+        display: flex;
+        z-index: 12;
 }
+    .show-mobile-btn span{
+       background: transparent;   /*hides middle line*/
+
+    }
+    .show-mobile-btn span:before,
+    .show-mobile-btn span:after{
+        top:0;
+        bottom: 0;
+        margin: auto;
+
+    }
+    .show-mobile-btn span:before{
+        transform: rotate(45deg);
+    }
+    .show-mobile-btn span:after{
+        transform: rotate(-45deg);
+    }
+    .menu{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: fixed;
+        background: #d4781a;
+        height: 100%;
+        width: 100%;
+        top:0;
+        right:-100%;
+        z-index: 11;
+        transition: .5s;
+    }
+    .show-menu{
+        right: 0;
+    }
+}
+/*FORBUREGER*/ /*FORBUREGER*/
+
 @media (max-width: 767.98px) {
     .clients-list{
         display:flex;
